@@ -48,4 +48,4 @@ This project provides a solid baseline for diabetes prediction using traditional
 ---
 
 ### 🔗 Author
-Built with ❤️ by a Data Analyst enthusiast.
+**Abhishek Kunbhare**

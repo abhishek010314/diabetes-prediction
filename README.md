@@ -1,4 +1,4 @@
-# diabetes-prediction
+# Diabetes-Prediction
 Diabetes prediction using data analysis &amp; ML on health metrics — includes cleaning, visualization, feature engineering, and model evaluation.
 
 This repository contains a complete end-to-end data analysis and machine learning project for predicting the likelihood of diabetes using the Pima Indians Diabetes dataset.

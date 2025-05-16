@@ -43,6 +43,7 @@ This project provides a solid baseline for diabetes prediction using traditional
 
 ## 📁 Files
 - `diabetes_prediction.ipynb` – Jupyter Notebook with full workflow.
+- `diabetes.csv` – Dataset file used in the project.
 - `README.md` – Project overview and documentation.
 
 ---
